@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!-- # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+ -->
+
+### Day 1: July 12, 2017
+
+**Today's Progress**: Began the 30sites in 30 days challenge. I completed day one of that which featured doing a portfolio page
+
+**Thoughts:** Sort of struggled with CSS and bootstrap nav bar. UI is still ways off for me in terms of color selection and all that
+
+**Link to todays work**
+1. [Portfolio project for 30sites30days challenge](https://github.com/ceoehis/portfolio)
