@@ -38,3 +38,14 @@
 
 **Link to todays work**
 1. [Portfolio project for 30sites30days challenge](https://github.com/ceoehis/portfolio)
+
+### Day2: July 19, 2017
+
+**Today's Progress**: Been a few days since I have logged here. Loads of challenges like electricity and data. But No excuses.
+Did loads of work on my projects. I built a site to house my sites from the 30 days challenge. Worked on the layout for my Weather App. Did part of the javascript functionality - getting my user's location via the geolocation api
+
+**Thoughts:** I struggle with motivation and resistance.
+I need to dedicate to being a pro not an amateur and fastrack my learning curve. My css is improving greatly and I now Know the importance of debugging code, for instance using the chrome dev tools.
+
+**Link to today's work**
+1. [30 days Project](https://github.com/ceoehis/30-day-project)
