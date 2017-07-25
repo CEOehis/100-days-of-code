@@ -49,3 +49,13 @@ I need to dedicate to being a pro not an amateur and fastrack my learning curve.
 
 **Link to today's work**
 1. [30 days Project](https://github.com/ceoehis/30-day-project)
+
+## Day3: July 25, 2017
+
+**Today's Progress**: I have been away from this log for a bit. I worked on and rounded off my Weather App. I have since pushed it to github and codepen and have begun work on the layout of the views of my Wikipedia viewer.
+
+**Thoughts**: Understanding javascript scopes and closures still evades me a bit. I managed to pull of the project with the weather app. My jquery is improving and I made use of a lot of jquery functionality such as .html(), .text() etc.
+
+**Link to today's work**
+1. [Weather App on github](https://github.com/ceoehis/weather-app)
+2. [Weather App on codepen](https://codepen.io/ceo.ehis)
