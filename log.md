@@ -59,3 +59,12 @@ I need to dedicate to being a pro not an amateur and fastrack my learning curve.
 **Link to today's work**
 1. [Weather App on github](https://github.com/ceoehis/weather-app)
 2. [Weather App on codepen](https://codepen.io/ceo.ehis)
+
+## Day4: July 29, 2017 ##
+
+**Today's Progress**: I have been consistently coding over an hour each day. Been working on the logic of the wikipedia viewer. So far so good, I have the layout just as I want it. I used bootstrap and jquery. Today I finalized parsing the data i got from the '$.JSON' request sent to the wikipedia api.
+
+**Thoughts**: I am making steady progress as long as I keep working at it. My javascript is improving in bits. However I struggle with displaying the results from my api request on my page. I will take some time to think about this on paper
+
+**Link to today's work**:
+1.[Mini Wiki on github](https://github.com/ceoehis/mini-wiki)
