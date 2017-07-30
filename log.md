@@ -68,3 +68,12 @@ I need to dedicate to being a pro not an amateur and fastrack my learning curve.
 
 **Link to today's work**:
 1.[Mini Wiki on github](https://github.com/ceoehis/mini-wiki)
+
+## Day 5: July 30, 2017 ##
+
+**Today's Progress**: I have finally rounded off with the 'mini-wiki' app. That's what I call the app I made for the 'wikipedia viewer' freecodecamp zipline. I polished the user experience by making the search box focused on page load. Then styled my result page and added a 'random article' button and a 'home' button on the results page.
+
+**Thoughts**: I have been having trouble pushing my work to github due to poor internet connections. It seems to always break midway. Anyways I did upload it to codepen.
+
+**Link to today's work**:
+1. [Mini Wiki app on codepen](https://codepen.io/CEO_ehis/full/vJORzb)
