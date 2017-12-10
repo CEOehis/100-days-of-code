@@ -77,3 +77,31 @@ I need to dedicate to being a pro not an amateur and fastrack my learning curve.
 
 **Link to today's work**:
 1. [Mini Wiki app on codepen](https://codepen.io/CEO_ehis/full/vJORzb)
+
+====================================================================
+# New sprint
+
+Being self taught requires a ton of discipline and proper use of available resources.
+I had previously failed to maintain this log of my coding activities, even though I had really been coding away for quite a while in-between the last log and this.
+
+In the span of time between my last log and now. I had gone on to complete a 3-month remote internship. Polished my javascript and a few other things. 
+
+I am listing my goals for now and the mid term here to serve as a motivation when I go through this log and also to keep me focused on what I need to do and where I need to be:
+1. Learn React
+2. Design my Portfolio site and personal blog theme on figma
+3. Use this design to create a jekyll site to host on github
+4. Get freecodecamps front end Development certification
+5. Finish a job ready guide.
+6. Get freecodecamps back end Development certification
+7. complete 20 Project Euler challenges
+8. Complete 20 hackerrank challenges
+
+These are a bit of my short-mid term goals, and this challenge will help me stay on track.
+## Day 6: December 10, 2017 ##
+
+**Today's Progress**: I have been previously away from here as I mentioned above. I worked on my portfolio site and added a carousel to it.
+
+**Thoughts**: I had to look up a tutorial on pure css carousel, since all the components on my site are hand made responsive with no frame works. I made this decision as a way of levelling up my front end skills and efficiency. Sass helps me manage my styles too.
+
+**Link to today's work**:
+1. [Added carousel to site](https://github.com/CEOehis/portfolio/commit/0575f3c67948de84ac8ee7021b190d5501326f59)
