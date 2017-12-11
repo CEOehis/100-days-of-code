@@ -105,3 +105,12 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 
 **Link to today's work**:
 1. [Added carousel to site](https://github.com/CEOehis/portfolio/commit/0575f3c67948de84ac8ee7021b190d5501326f59)
+
+## Day 7: December 11, 2017 ##
+
+**Today's Progress**: Today's sprint was focused... I worked on translating my portfolio design to a responsive one page site. Today was me doing the media queries to support larger screen sizes. 
+
+**Thoughts**: Wow, I did learn a bit more about responsive design. Plus I made use of the 'unset' value at a point in time. The scenario was that on my main style sheet i had something absolutely positioned with ```top: 0```, and i had to , in my media query cancel out this top value so as to set it to ```right: 40px```. The solution was as simple as ```top: unset```. That did the trick.
+
+**Link to today's work**:
+1. [Add media queries](https://github.com/CEOehis/portfolio)
