@@ -114,3 +114,12 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 
 **Link to today's work**:
 1. [Add media queries](https://github.com/CEOehis/portfolio)
+
+## Day 8: December 12, 2017 ##
+
+**Today's Progress**: Today I was on limited internet connectivity so i decided to do a little levelling up with wes bos' javascript 30 course. I did the array cardio workout
+
+**Thoughts**: I was a little bit comfortable with certain array methods before now, viz map, reduce, filter, sort... However i did glean some insight into the sort and reduce method as to how powerful they can be. A sort method can sort anything, even using properties of objects in the array as criteria. The reduce method provides a lot of flexibility for manipulating arrays as well
+
+**Link to today's work**:
+1. [Array Cardio day 1](https://github.com/CEOehis/JavaScript30-1/tree/master/04%20-%20Array%20Cardio%20Day%201)
