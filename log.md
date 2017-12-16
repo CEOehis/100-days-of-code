@@ -123,3 +123,12 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 
 **Link to today's work**:
 1. [Array Cardio day 1](https://github.com/CEOehis/JavaScript30-1/tree/master/04%20-%20Array%20Cardio%20Day%201)
+
+## Day 9-11: December 13-15, 2017 ##
+
+**Today's Progress**: Limited power has made my projects suffer. Had to switch to watching video tutorials i had previously downloaded, viz Kyle simpsons JS courses and CS50. I also worked on CS50 problem sets for week one.
+
+**Thoughts**: I need to focus on focusing on my time... not the best grammer but that accurately describes my situation.
+
+**Link to today's work**:
+1. [CS50 Problem set submission](https://github.com/submit50/CEOehis)
