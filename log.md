@@ -132,3 +132,13 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 
 **Link to today's work**:
 1. [CS50 Problem set submission](https://github.com/submit50/CEOehis)
+
+## Day 12: December 16, 2017 ##
+
+**Today's Progress**: Worked on a few freecodecamp backend way points, viz getting started with node. The lessons were basically from nodeschools workshops.
+
+**Thoughts**: I seem to be getting more confident in my version of solutions to challenges rather than just copy-pasta of what the walkthrough suggests.
+
+**Link to today's work**:
+1. [How to npm](https://www.freecodecamp.org/challenges/manage-packages-with-npm)
+1. [Start a Nodejs Server ](https://www.freecodecamp.org/challenges/start-a-nodejs-server)
