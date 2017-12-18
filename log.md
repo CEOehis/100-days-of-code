@@ -153,3 +153,13 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 1. [Streamroller](https://www.freecodecamp.org/challenges/steamroller)
 1. [Smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
 1. [Arguments optional](https://www.freecodecamp.org/challenges/arguments-optional)
+
+## Day 14: December 18, 2017 ##
+
+**Today's Progress**: Continued with react course from "Road to learn React"
+
+**Thoughts**: React is awesome, and as I take the tutorial I envisage several scenarios in which I can make us of its APIs. Also I am awed by conditional rendering in react and JSX in particular. Apparently you can't make use of if statements in your JSX for this so ternary operator is more suitable. It is also explicit in my opinion and aids readability;
+
+**Link to today's work**:
+1. [if-else in JSX](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+my work today is local. The link above highlights how to do conditional rendering within the render() method's return statement;
