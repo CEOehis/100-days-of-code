@@ -142,3 +142,14 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 **Link to today's work**:
 1. [How to npm](https://www.freecodecamp.org/challenges/manage-packages-with-npm)
 1. [Start a Nodejs Server ](https://www.freecodecamp.org/challenges/start-a-nodejs-server)
+
+## Day 13: December 17, 2017 ##
+
+**Today's Progress**: Finished freecodecamp's intermediate algorithm scripting section. Yayness!!!.
+
+**Thoughts**: Wow, makeing a ton of progress, whats between me and my goal of FCC frontend certification is just 3 projects...
+
+**Link to today's work**:
+1. [Streamroller](https://www.freecodecamp.org/challenges/steamroller)
+1. [Smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+1. [Arguments optional](https://www.freecodecamp.org/challenges/arguments-optional)
