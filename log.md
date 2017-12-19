@@ -163,3 +163,12 @@ These are a bit of my short-mid term goals, and this challenge will help me stay
 **Link to today's work**:
 1. [if-else in JSX](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
 my work today is local. The link above highlights how to do conditional rendering within the render() method's return statement;
+
+## Day 15: December 19, 2017 ##
+
+**Today's Progress**: Poor connectivity affected my workflow. Couldn't do much online. Had to resort to watching videos from Udacity about "offline first".
+
+**Thoughts**: Also read a few inspiring articles about my craft and its potential. I just need to keep coding daily and building the mental muscle.
+
+**Link to today's work**:
+1. [Awesome article](goo.gl/EgxP7c)
