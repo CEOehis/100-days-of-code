@@ -172,3 +172,21 @@ my work today is local. The link above highlights how to do conditional renderin
 
 **Link to today's work**:
 1. [Awesome article](goo.gl/EgxP7c)
+
+## Day 16-19: December 20-23, 2017 ##
+
+**Today's Progress**: Made progress with "Road to Learn React"
+
+**Thoughts**: Debugging skills need a bit more uping, struggled with on tiny bug that won't allow my search form prevent reloading using `event.preventDefault()`
+
+**Link to today's work**:
+
+## Day 20-21: December 24-26, 2017 ##
+
+**Today's Progress**: Worked on and finished a responsive web design challenge. Awesome stuff. Took a break on Christmas day though.
+
+**Thoughts**: Wow, learned a lot, made use of Css grids and flexbox. Flexed my positioning muscles a bit.
+
+**Link to today's work**:
+[Arinka](https://ceoehis.github.io/arinka)
+
