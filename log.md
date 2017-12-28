@@ -190,3 +190,12 @@ my work today is local. The link above highlights how to do conditional renderin
 **Link to today's work**:
 [Arinka](https://ceoehis.github.io/arinka)
 
+
+## Day 22: December 27, 2017 ##
+
+**Today's Progress**: Continued with the ALC Udacity web course. Actually finished the first part on responsive web design.
+
+**Thoughts**: I think its a whole growth process. I have been slacking in recent times, partly due to me trying to overwhelm myself with a lot at the same time.
+
+**Link to today's work**:
+N/A
