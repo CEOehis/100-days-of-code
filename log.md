@@ -199,3 +199,30 @@ my work today is local. The link above highlights how to do conditional renderin
 
 **Link to today's work**:
 N/A
+
+## Day 23: December 28, 2017 ##
+
+**Today's Progress**: Limited power :/ , had to watch CS50 videos on mobile. Sorta as a form of taking a break.
+
+**Thoughts**: Understood a bit more about command line arguments. Gave me a bit more insight into the process.argv[] array of a node command. argv - for argument vector which is an array of commands supplied with the program.
+
+**Link to today's work**:
+N/A
+
+## Day 24: December 29, 2017 ##
+
+**Today's Progress**: Continued with the CS50 course and did some problem sets. namely a caesar's cipher albeit in C language!
+
+**Thoughts**: Javascript makes life plain easy. I mean lots of data manipulation are very seamless in javascript compared to C. In C just converting a string to an int requires you to #include the library function that holds that particular method. yuck! But it got me thinking and 'sweating' too :)
+
+**Link to today's work**:
+[caesar's algorithm in c](//todo: add link here)
+
+## Day 25: December 30, 2017 ##
+
+**Today's Progress**: Worked on the JavaScript Calculator, from FCC's waypoint.
+
+**Thoughts**: Pair coding helps a programmer think broadly. Also working swiftly through a problem set when you are refreshed gives you quite a bit of momentum. I also liked how I tackled each feature one at a time.
+
+**Link to today's work**:
+[JS calculator on github](//todo: add link here)
