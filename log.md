@@ -260,3 +260,12 @@ Heres an update on my previously listed goals:
 
 **Link to today's work**:
 [JS calculator on github](https://github.com/CEOehis/js-calculator)
+
+## Day 28: January, 2nd 2018 ##
+
+**Today's Progress**: Finished problem set2  on CS50 course;
+
+**Thoughts**: Thinking through a problem algorithmically in byte sized steps is very valuable, it helps highlight the flaws (if any) in your thought process.
+
+**Link to today's work**:
+[vigenere cipher](https://github.com/submit50/CEOehis/tree/cs50/2017/x/vigenere)
