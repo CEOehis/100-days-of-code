@@ -216,7 +216,7 @@ N/A
 **Thoughts**: Javascript makes life plain easy. I mean lots of data manipulation are very seamless in javascript compared to C. In C just converting a string to an int requires you to #include the library function that holds that particular method. yuck! But it got me thinking and 'sweating' too :)
 
 **Link to today's work**:
-[caesar's algorithm in c](//todo: add link here)
+[caesar's algorithm in c](https://github.com/check50/CEOehis/tree/cs50/2017/x/caesar)
 
 ## Day 25: December 30, 2017 ##
 
@@ -225,4 +225,38 @@ N/A
 **Thoughts**: Pair coding helps a programmer think broadly. Also working swiftly through a problem set when you are refreshed gives you quite a bit of momentum. I also liked how I tackled each feature one at a time.
 
 **Link to today's work**:
-[JS calculator on github](//todo: add link here)
+[JS calculator on github](https://github.com/CEOehis/js-calculator)
+
+## Day 26: December 31, 2017 ##
+
+**Today's Progress**: Continued work on the JavaScript Calculator, from FCC's waypoint.
+
+**Thoughts**: Added code for several functionality of the calculator, and its amazing how I tend to put things away when I think they are challenging, rather than face them squarely. Anyways, tomorrow is a new year
+
+**Link to today's work**:
+[JS calculator on github](https://github.com/CEOehis/js-calculator)
+
+====================================================================
+# 2018!!!
+
+I have come a long way since the begining of 2017. I have indeed made a lot of progress. I've gone along to complete a paid remote internship and I am quite confident in my javascript.
+
+Heres an update on my previously listed goals: 
+1. Learn React --- 30%
+2. Design my Portfolio site and personal blog theme on figma --- 5%
+3. Use this design to create a jekyll site to host on github
+4. Get freecodecamps front end Development certification --- 90%
+5. Finish a job ready guide. --- 10%
+6. Get freecodecamps back end Development certification
+7. complete 20 Project Euler challenges
+8. Complete 20 hackerrank challenges --- 5%
+
+
+## Day 27: January, 1st 2018 ##
+
+**Today's Progress**: Finished work on the JavaScript Calculator, from FCC's waypoint.
+
+**Thoughts**: Pair programming is definitely awesome!!!. If that is unavailable, talking to an imaginary colleague while working might suffice. Whatever you want to put into code, make sure you simplify the workings in various steps of pseudocode, it'll help ensure you understand what code you are required to write
+
+**Link to today's work**:
+[JS calculator on github](https://github.com/CEOehis/js-calculator)
