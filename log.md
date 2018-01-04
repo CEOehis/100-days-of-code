@@ -269,3 +269,21 @@ Heres an update on my previously listed goals:
 
 **Link to today's work**:
 [vigenere cipher](https://github.com/submit50/CEOehis/tree/cs50/2017/x/vigenere)
+
+## Day 29: January, 3nd 2018 ##
+
+**Today's Progress**: Began a Udacity course on 'offline-first'
+
+**Thoughts**: I am a bit more confident with my javascript skills.
+
+**Link to today's work**:
+N/A
+
+## Day 30: January, 4nd 2018 ##
+
+**Today's Progress**: Brushed up on my backend node skills with sails js
+
+**Thoughts**: Backend is sweet, I am getting a grasp of asynchronous javascript which is requisite with node
+
+**Link to today's work**:
+N/A
